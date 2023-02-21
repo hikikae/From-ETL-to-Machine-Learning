@@ -1,8 +1,19 @@
-# From-ETL-to-Machine-Learning
-From an ETL to streaming platform data to the implementation of a recommendation system using Machine Learning.
+# From ETL to Machine Learning Recomendation
+A partir de los datos de algunas plataformas de streaming se crea un modelo de recomendación de usando técnicas de machine learning.<br> <br>
 
-# From ETL to Machine Learning Model
+<p align=center><img src="https://github.com/hikikae/From-ETL-to-Machine-Learning/blob/main/images/proceso.jpg"><p> <br> 
+  
+## Table of Contents
 
-A partir de datos de las plataformas de streaming más conocidas se crea un modelo de recomendación, pasando por todos los procesos, ETL, API y EDA.
-
-<p align=center><img src="https://github.com/hikikae/From-ETL-to-Machine-Learning/blob/main/images/proceso.jpg"><p>
+- [Introduction](#introduction)
+- [Features](#features)
+- [Feedback](#feedback)
+- [Contributors](#contributors)
+- [Build Process](#build-process)
+- [Backers](#backers-)
+- [Sponsors](#sponsors-)
+- [Acknowledgments](#acknowledgments)
+  
+ ## Introduction
+ En este repositorio encontrarás muchas herramientas que te serán familiares, te explico con más detalle la forma en que se desarrolla el proyecto en el siguiente <a href="https://www.youtube.com/watch?v=DmIIPUSc1eU">video.</a>
+  
