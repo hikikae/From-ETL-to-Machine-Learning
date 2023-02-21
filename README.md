@@ -4,7 +4,7 @@ A partir de los datos de algunas plataformas de streaming se crea un modelo de r
 <p align=center><img src="https://github.com/hikikae/From-ETL-to-Machine-Learning/blob/main/images/proceso.jpg"><p> <br> 
   
  ## Introduction
- En este repositorio encontrarás muchas herramientas que te serán familiares, te explico con más detalle la forma en que se desarrolla el proyecto en el siguiente <a href="https://www.youtube.com/watch?v=DmIIPUSc1eU">video.</a>
+ En este repositorio encontrarás muchas herramientas que te serán familiares, te explico con más detalle la forma en que se desarrolla el proyecto en el siguiente <a href="https://www.youtube.com/watch?v=5WaHfWF77Vs">video.</a>
   
 ## Table of Contents
 
