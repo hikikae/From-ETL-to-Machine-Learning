@@ -14,8 +14,8 @@ A partir de los datos de algunas plataformas de streaming se crea un modelo de r
 - [EDA](#EDA)
 - [PreML](#PreML)
 - [ML](#ML)
-- [Gradio y Hugging Face](#Gradio y Hugging Face)
-- [Datos Iniciales](#Datos Iniciales)
+- [Gradio y Hugging Face](#Gradio)
+- [Datos Iniciales](#Datos)
   
 ## <a href="https://github.com/hikikae/From-ETL-to-Machine-Learning/blob/main/Parte1-ETL.ipynb">ETL </a>
 Comienzo por un proceso de Extract, Transform, and Load (ETL) para integrar toda la información en una base de datos que se utilizará en las siguientes etapas de este proyecto. 
