@@ -102,7 +102,7 @@ Te muestro como hacer una prueba con los datos más básicos:
 ## Agradecimiento y Contacto
 Gracias por interesarte en mi proyecto y si tienes alguna duda no dudes en contactarte conmigo.
 
-Angélica García Díaz ---- mail:  angelicagarciad@gmail.com
+Angélica García Díaz ---- <a href="https://www.linkedin.com/in/angelica-garc%C3%ADa-diaz/">LinkedIn </a>, mail:  angelicagarciad@gmail.com <br>
 
  😇
                         
